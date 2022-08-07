@@ -138,6 +138,79 @@ Los devanados en cortocircuito son muy raros y si ocurren resultan muy difícile
 
 Un corto parcial en el devanado primario puede provocar una corriente primaria más alta que lo normal o incluso excesiva. En el caso de un devanado secundario en cortocircuito o parcialmente en cortocircuito, existe una corriente primaria excesiva debido a la baja resistencia reflejada provocada por el corto.
 
+3. Resolución de ejercicios
+
+Capítulo 13
+
+2. Convierta los siguientes valores en microhenries:
+
+![image](https://user-images.githubusercontent.com/105565670/183271627-af4076ac-5985-4683-8152-3c0f2dc987f0.png)
+
+4. Se inducen 50 volts en una bobina de 25 mH. ¿Con qué rapidez cambia la corriente?
+
+![image](https://user-images.githubusercontent.com/105565670/183271633-912684d4-6fe9-4464-8a4e-6544a32f2739.png)
+
+6. ¿Cuántas vueltas se requieren para producir 30 mH con una bobina enrollada sobre un núcleo cilíndrico cuya área de sección transversal mide 10 x 10 ^ (-5) m^2 y tiene longitud de 0.05 m? La permeabilidad del núcleo es de 1.26 x 10 ^ (-6) H/m.
+
+![image](https://user-images.githubusercontent.com/105565670/183271638-f119a5f9-674d-4ab0-8c5d-af55e5bb0c06.png)
+
+8. Compare la inductancia de dos inductores idénticos excepto que el inductor 2 tiene dos veces la cantidad de vueltas del inductor 1.
+
+![image](https://user-images.githubusercontent.com/105565670/183271645-23f7c277-ed33-437d-a5a9-4497fd55bffe.png)
+
+10. Un estudiante enrolla 100 vueltas de alambre sobre un lápiz de 7 mm de diámetro como se muestra en la figura 13-43. El lápiz es un núcleo no magnético de tal suerte que su permeabilidad es igual a la de un vacío (4p x 10 ^ (-6) H/m). Determine la inductancia de la bobina que se formó.
+
+![image](https://user-images.githubusercontent.com/105565670/183271650-c44dfb10-ce51-47fa-824e-e469be5b0912.png)
+
+12. Usted requiere una inductancia total de 50 mH. Tiene disponibles una bobina de 10 mH y otra de 22 mH. ¿Cuánta inductancia adicional necesita?
+
+![image](https://user-images.githubusercontent.com/105565670/183271656-a8adb3e0-8393-4197-9bdb-7c0342fd859a.png)
+
+14. En la figura 13-45, ¿cuál es la inductancia total entre los puntos A y B con cada posición del interruptor?
+
+![image](https://user-images.githubusercontent.com/105565670/183271670-868b1379-7aad-457f-8216-2835e407edd1.png)
+
+16. Usted tiene un inductor de 12 mH, y éste es su valor más bajo, pero necesita una inductancia de 8 mH. ¿Qué valor puede utilizar en paralelo con el inductor de 12 mH para obtener 8 mH?
+
+![image](https://user-images.githubusercontent.com/105565670/183271676-a9e5cf62-6196-40e9-8a8e-4c6263ab5ab9.png)
+
+18. Determine la inductancia total de cada circuito mostrado en la figura 13-47
+
+![image](https://user-images.githubusercontent.com/105565670/183271684-9e7b5232-7f07-45a7-b83d-50d6178761af.png)
+
+20. En un circuito RL en serie, determine cuánto tiempo se lleva la corriente para incrementarse a su valor total con cada una de las siguientes combinaciones:
+
+![image](https://user-images.githubusercontent.com/105565670/183271690-296d10bd-4885-4a59-94cd-d56abb3e5493.png)
+
+22. Para el inductor ideal de la figura 13-49, calcule la corriente en cada uno de los siguientes instantes:
+
+![image](https://user-images.githubusercontent.com/105565670/183271712-0812fe2a-13a5-4c23-a6d1-c699d2f005f8.png)
+
+24. Repita el problema 22 para los siguientes instantes:
+
+![image](https://user-images.githubusercontent.com/105565670/183271722-dfc37516-e331-486d-be8e-39d4d8d49347.png)
+
+26.
+
+![image](https://user-images.githubusercontent.com/105565670/183271731-c6204999-acd4-40b9-91a9-3c9bbd49fbe1.png)
+
+28.
+
+![image](https://user-images.githubusercontent.com/105565670/183271743-2a49a177-4b34-4d9b-b714-546c717ff774.png)
+
+30. Determine la resistencia total para cada circuito de la figura 13-46 cuando se aplica voltaje a una frecuencia de 5 kHz entre las terminales.
+
+![image](https://user-images.githubusercontent.com/105565670/183271748-51b9d8e8-21e0-4e6b-8bed-1a472a2b4cf8.png)
+
+32. En la figura 13-51, determine la corriente rms total. ¿Cuáles son las corrientes a través de L2 y L3?
+
+![image](https://user-images.githubusercontent.com/105565670/183271754-466acc12-ed4f-426d-9b67-c547a3c773f4.png)
+
+34. En la figura 13-51, determine la potencia reactiva
+
+![image](https://user-images.githubusercontent.com/105565670/183271758-59fd2915-690c-4733-a83b-65e2ed189418.png)
+
+Capítulo 14
 
 
 
