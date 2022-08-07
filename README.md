@@ -286,7 +286,7 @@ Algunos de los devanados secundarios podrían estar en cortocircuito, o el volta
 
 4. Video
 
-Link del video:
+Link del video: https://www.youtube.com/watch?v=_3wCZypP3Io&ab_channel=CristopherPaida
 
 5. Conclusiones
 
